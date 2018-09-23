@@ -1,12 +1,14 @@
 <template>
 <section show class="showcase">
   <div class="intro" >
+
     <div class="row">
 
 
 
     <h1>Information about what's going on in East London.</h1>
     </div>
+
   </div>
 </section>
 
@@ -21,7 +23,7 @@
   -moz-background-size   : cover;
   -o-background-size     : cover;
   height                 : 700px;
-  margin-top             : -5.5%;
+  margin-top             : -75px;
 
 }
 .intro{
@@ -32,6 +34,8 @@
   color       : ghostwhite;
   font-family : Damion;
   }
+
+
 
 
 

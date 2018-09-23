@@ -25,11 +25,22 @@ box-sizing: border-box;
 body {
   font-family: "lato", sans-serif;
   background : #242943;
-
 }
+.title-color{
+    color: #FFCB31;
+}
+
+.main-color{
+color: #1A8c97;
+}
+
+.con-color{color: #242943;
+}
+
 .main-content{
   margin-top: 4.5rem;
 
 }
+
 
 </style>

@@ -2,7 +2,7 @@
 <section main>
   <b-container>
     <b-row>
-    
+    <h1 class="title-color">computers</h1>
   <div>
 
 

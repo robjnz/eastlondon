@@ -100,14 +100,10 @@
 
 </b-card>
 </b-card-group>
-
-
-
-
-
-
-    </div>
+</div>
     </b-row>
       </b-container>
     </section>
 </template>
+
+

@@ -23,7 +23,7 @@
 
       <b-nav-item-dropdown text="Health" right>
         <b-dropdown-item href="/hospitals">Hospitals</b-dropdown-item>
-        <b-dropdown-item href="/education">Education</b-dropdown-item>
+        <b-dropdown-item href="/support">Support groups</b-dropdown-item>
         <b-dropdown-item href="/housing">Housing</b-dropdown-item>
         <b-dropdown-item href="/goods">Second hand goods</b-dropdown-item>
         <b-dropdown-item href="/links">Other Links</b-dropdown-item>

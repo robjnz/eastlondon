@@ -14,7 +14,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Q02KM6" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Q02KM6" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Age Uk">
@@ -23,7 +23,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2I9pdDQ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2I9pdDQ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Alzheimers">
@@ -33,7 +33,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2NxuJGc" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2NxuJGc" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -48,7 +48,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2MYKPU4" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MYKPU4" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -59,7 +59,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xMeRVJ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xMeRVJ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Asthma Uk">
@@ -68,7 +68,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Q3iVZj" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Q3iVZj" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -81,7 +81,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xOdGVB" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xOdGVB" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Beat Eating Disorders">
@@ -91,7 +91,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NxwOSy" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NxwOSy" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Cancer Research Uk">
@@ -102,7 +102,7 @@
     <br>
 
     </p>
-    <b-button href="http://bit.ly/2xP7qNI" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2xP7qNI" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -117,7 +117,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NF0duo" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NF0duo" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -127,7 +127,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2O4KlAv" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2O4KlAv" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Epilepsy">
@@ -137,7 +137,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Dqsm3n" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Dqsm3n" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -149,7 +149,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2O5mSz3" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2O5mSz3" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Kidney Cancer UK">
@@ -160,7 +160,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NDc8Zq" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NDc8Zq" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Leukaemia Care">
@@ -171,7 +171,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2xvnrJd" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2xvnrJd" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -186,7 +186,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2xKoQuQ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xKoQuQ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -198,7 +198,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2IaKQUi" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2IaKQUi" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Marie Curie">
@@ -209,7 +209,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xyShkg" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xyShkg" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -222,7 +222,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2O1xLlJ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2O1xLlJ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Mind">
@@ -232,7 +232,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2NAN1qc" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NAN1qc" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "MS Society">
@@ -242,7 +242,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2PVvVzS" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2PVvVzS" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -257,7 +257,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Drdm5u" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Drdm5u" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -267,7 +267,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2zrlL4V" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2zrlL4V" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Prostate Cancer Uk">
@@ -277,7 +277,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Q3mL4J" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Q3mL4J" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -290,7 +290,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xBdhqy" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xBdhqy" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -300,7 +300,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NENaJr" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NENaJr" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Sense">
@@ -309,7 +309,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xNa8Di" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xNa8Di" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -322,7 +322,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2OKiGSI" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2OKiGSI" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -332,7 +332,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NzIC74" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NzIC74" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Stroke">
@@ -343,7 +343,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xBLQNg" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xBLQNg" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -354,7 +354,7 @@
       Supports people through the most difficult times of their lives. Whether that’s a terminal illness, the loss of a loved one or a neurological condition – we’re there when it matters.
     <br>
   </p>
-  <b-button href="http://bit.ly/2IeYF4g" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2IeYF4g" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -365,7 +365,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2Dqrgon" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2Dqrgon" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "NHS.uk">
@@ -375,7 +375,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2MZrp1F" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MZrp1F" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -388,7 +388,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2QV15Ja" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QV15Ja" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -398,7 +398,7 @@
     <br>
     <br>
   </p>
-  <b-button href="https://wb.md/2xA8nKb" target="_blank" variant="primary">open</b-button>
+  <b-button href="https://wb.md/2xA8nKb" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">

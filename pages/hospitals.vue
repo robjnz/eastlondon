@@ -8,6 +8,20 @@
 
 <b-card-group deck
       class="mb-3">
+
+  <b-card bg-variant="dark" text-variant="white" title= "Homerton Hospital">
+  <p class="title-color">
+    Homerton Row<br>
+    Hackney<br>
+    London<br>
+    E9 6SR<br>
+    <br>
+    <br>
+    020 8510 5555
+    </p>
+    <b-button href="http://bit.ly/2QXpoWR" target="_blank" variant="info">open</b-button>
+
+</b-card>
 <b-card bg-variant="dark" text-variant="white" title= "King George Hospital">
   <p class="title-color">
     Barley Lane<br>
@@ -17,7 +31,7 @@
     <br>
     0330 400 4333
     </p>
-    <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Lewisham Hospital">
@@ -30,7 +44,7 @@
     <br>
     020 8333 3000
   </p>
-  <b-button href="http://bit.ly/2MYkVjw" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MYkVjw" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Mile End Hospital">
@@ -43,9 +57,13 @@
     <br>
     020 3416 5000
   </p>
-  <b-button href="http://bit.ly/2PWgYxy" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PWgYxy" target="_blank" variant="info">open</b-button>
 </b-card>
+</b-card-group>
 
+
+<b-card-group deck
+      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Newham Hospital">
   <p class="title-color">
@@ -57,13 +75,8 @@
     <br>
     020 7476 4000
   </p>
-  <b-button href="http://bit.ly/2MXSVwg" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MXSVwg" target="_blank" variant="info">open</b-button>
 </b-card>
-</b-card-group>
-
-
-<b-card-group deck
-      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Queen Elizabeth Hospital">
   <p class="title-color">
@@ -74,7 +87,7 @@
     <br>
     020 8836 6000
   </p>
-  <b-button href="http://bit.ly/2xxpYmd" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xxpYmd" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Queen's Hospital">
@@ -87,7 +100,7 @@
     <br>
     0330 400 4333
   </p>
-  <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QTRgvc" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "The Royal London Hospital">
@@ -99,8 +112,13 @@
     <br>
     020 3416 5000
     </p>
-    <b-button href="http://bit.ly/2pxMsim" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2pxMsim" target="_blank" variant="info">open</b-button>
 </b-card>
+</b-card-group>
+
+
+<b-card-group deck
+      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "St Bartholomew's Hospital">
   <p class="title-color">
@@ -111,14 +129,8 @@
     <br>
     020 3416 5000
     </p>
-    <b-button href="http://bit.ly/2zpMvTr" target="_blank" variant="primary">open</b-button>
-
+    <b-button href="http://bit.ly/2zpMvTr" target="_blank" variant="info">open</b-button>
 </b-card>
-</b-card-group>
-
-
-<b-card-group deck
-      class="mb-3">
 
 <b-card bg-variant="dark" text-variant="white" title= "Whipps Cross University Hospital">
   <p class="title-color">
@@ -129,7 +141,7 @@
     <br>
     020 8539 5522
   </p>
-  <b-button href="http://bit.ly/2NC4P4n" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NC4P4n" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">
@@ -146,13 +158,6 @@
 
 </b-card>
 
-<b-card bg-variant="dark" text-variant="white" title= "">
-  <p class="title-color">
-
-    </p>
-
-
-</b-card>
 </b-card-group>
 </div>
     </b-row>

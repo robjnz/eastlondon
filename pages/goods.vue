@@ -12,7 +12,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QQGy8v" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QQGy8v" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Depop">
@@ -22,7 +22,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2PWTWa2" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PWTWa2" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Preloved">
@@ -33,7 +33,7 @@
     <br>
 
     </p>
-    <b-button href="http://bit.ly/2MV8XqG" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2MV8XqG" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -48,7 +48,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2pt4sKI" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2pt4sKI" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -59,7 +59,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2znSN60" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2znSN60" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "World Of Books">
@@ -69,7 +69,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xDrNOD" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xDrNOD" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 

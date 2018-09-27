@@ -13,7 +13,7 @@
     All the businesses listed on this website have been vetted and approved by Trading Standards to ensure that they operate in a legal, honest and fair way.
     <br>
     </p>
-    <b-button href="http://bit.ly/2N0FiNa" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2N0FiNa" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "The Phone book">
@@ -24,7 +24,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QXXD0u" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QXXD0u" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Ask The Pigeon">
@@ -35,7 +35,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2px4D84" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2px4D84" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -48,7 +48,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2MW3hN6" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MW3hN6" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Parking Ticket Expert">
@@ -57,7 +57,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2MWku9n" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2MWku9n" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Royal Mail">
@@ -67,7 +67,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QRXZWg" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QRXZWg" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -79,7 +79,7 @@
     Search for People, Businesses & Places in the UK.
     <br>
     </p>
-    <b-button href="https://www.192.com" target="_blank" variant="primary">open</b-button>
+    <b-button href="https://www.192.com" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">

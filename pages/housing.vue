@@ -15,7 +15,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2xM4fWG" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2xM4fWG" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Tenancy Deposit Protection">
@@ -24,7 +24,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2O0zrfe" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2O0zrfe" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Shelter">
@@ -33,7 +33,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2DpTWxF" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2DpTWxF" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -46,7 +46,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NB5J11" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NB5J11" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Zoopla">

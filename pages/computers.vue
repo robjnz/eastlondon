@@ -7,7 +7,7 @@
 
 
 <b-card-group deck
-      class="mb-3">
+  class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Advanced Systemcare">
   <p class="title-color">
 
@@ -16,7 +16,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2QIwrmj" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2QIwrmj" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Alternative To">
@@ -25,7 +25,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2NmFriN" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2NmFriN" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Bitdefender Home">
@@ -36,17 +36,17 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2PI3TYw" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PI3TYw" target="_blank" variant="info">open</b-button>
 </b-card>
-</b-card-group>
+</b-card-group> 
 
 <b-card-group deck
-      class="mb-3">
+  class="mb-3">
 <b-card bg-variant="dark" text-variant="white" title= "Bitdefender <br> Rescue CD">
   <p class="title-color">
     Free tool that scans your computer for viruses, without the need of loading the operating system.
   </p>
-  <b-button href="http://bit.ly/2xkR9Aw" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xkR9Aw" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -59,7 +59,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2xmBsc2" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2xmBsc2" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Chrome">
@@ -70,7 +70,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xmBP6q" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xmBP6q" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -83,14 +83,14 @@
     <br><br><br>
 
   </p>
-  <b-button href="http://bit.ly/2xnJ4Lr" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xnJ4Lr" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Emsisoft <br> Emergency Kit">
   <p class="title-color">
     Free program to scan for malware and cleans infected computers.
   </p>
-  <b-button href="http://bit.ly/2QLiHav" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QLiHav" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "F.lux">
@@ -100,7 +100,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2PPAAU0" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2PPAAU0" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -115,7 +115,7 @@
     <br>
     <br>
   </p>
-  <b-button href="https://mzl.la/2xBo2IC" target="_blank" variant="primary">open</b-button>
+  <b-button href="https://mzl.la/2xBo2IC" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Getnotify">
@@ -124,7 +124,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xCfrFx" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xCfrFx" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Glasswire">
@@ -134,7 +134,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QMjYOf" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QMjYOf" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -146,7 +146,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2Ns6MAk" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2Ns6MAk" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Lastpass">
@@ -155,7 +155,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xxnQdg" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xxnQdg" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Libre Office">
@@ -164,7 +164,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2PI3TYw" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PI3TYw" target="_blank" variant="info">open</b-button>
 </b-card>
 
 </b-card-group>
@@ -179,7 +179,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2OG6jHl" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2OG6jHl" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Opera">
@@ -189,7 +189,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2ppT6an" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2ppT6an" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Pendrive Apps">
@@ -199,7 +199,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2QMzuda" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QMzuda" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -212,7 +212,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QKtOQT" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QKtOQT" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Proton Vpn">
@@ -222,7 +222,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2powOWx" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2powOWx" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Rollback">
@@ -232,7 +232,7 @@
     <br>
 
     </p>
-    <b-button href="http://bit.ly/2QKoexI" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2QKoexI" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -248,7 +248,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2PUNhgz" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PUNhgz" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Speedtest">
@@ -261,7 +261,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2PQ9psc" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PQ9psc" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Super Anti Spyware">
@@ -270,7 +270,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2DoEi5A" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2DoEi5A" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -284,7 +284,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2PXpkoR" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2PXpkoR" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -294,7 +294,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2xGond2" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2xGond2" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Toolwiz Care">
@@ -305,7 +305,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2QUCTqq" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QUCTqq" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -318,7 +318,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2PVYHAx" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PVYHAx" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -328,7 +328,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2pzqr2Z" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2pzqr2Z" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -340,7 +340,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2DkvaPG" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2DkvaPG" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -354,7 +354,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2ODcmfA" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2ODcmfA" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Uninstaller">
@@ -364,7 +364,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2QOtj8g" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QOtj8g" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "UnLock IT">
@@ -375,7 +375,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2OHNbZr" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2OHNbZr" target="_blank" variant="info">open</b-button>
 </b-card>
 
 
@@ -391,7 +391,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2zlxOQZ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2zlxOQZ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Windscribe">
@@ -402,7 +402,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2O5MwDQ" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2O5MwDQ" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "">

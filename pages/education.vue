@@ -16,7 +16,7 @@
     <br>
     <br>
     </p>
-    <b-button href="http://bit.ly/2xvR3WP" target="_blank" variant="primary">open</b-button>
+    <b-button href="http://bit.ly/2xvR3WP" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Citizen Maths">
@@ -27,7 +27,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2I7q0W4" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2I7q0W4" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Idea">
@@ -36,7 +36,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2I5fZZd" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2I5fZZd" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 
@@ -49,7 +49,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2zlCwhK" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2zlCwhK" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Reed">
@@ -59,7 +59,7 @@
     <br>
 
   </p>
-  <b-button href="http://bit.ly/2PVoYPj" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2PVoYPj" target="_blank" variant="info">open</b-button>
 </b-card>
 
 <b-card bg-variant="dark" text-variant="white" title= "Vision2learn">
@@ -69,7 +69,7 @@
     <br>
     <br>
   </p>
-  <b-button href="http://bit.ly/2QJY526" target="_blank" variant="primary">open</b-button>
+  <b-button href="http://bit.ly/2QJY526" target="_blank" variant="info">open</b-button>
 </b-card>
 </b-card-group>
 

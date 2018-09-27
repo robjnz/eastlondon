@@ -4,10 +4,10 @@
 
 
   <b-navbar-toggle target="nav_collapse"></b-navbar-toggle>
-  <img src="/logo_transparent.png" height="50" width="50" class="d-inline-block align-top" alt="eastlon logo tower bridge">
+  <img src="/logo_transparent.png" height="50" width="50" class="d-inline-block align-top" alt="LondonEast logo">
 
 
-  <b-navbar-brand href="/" class="title"> East London </b-navbar-brand>
+  <b-navbar-brand href="/" class="title">London East</b-navbar-brand>
 
   <b-collapse is-nav id="nav_collapse">
 
@@ -24,12 +24,11 @@
       <b-nav-item-dropdown text="Health" right>
         <b-dropdown-item href="/hospitals">Hospitals</b-dropdown-item>
         <b-dropdown-item href="/support">Support groups</b-dropdown-item>
-        <b-dropdown-item href="/housing">Housing</b-dropdown-item>
-        <b-dropdown-item href="/goods">Second hand goods</b-dropdown-item>
-        <b-dropdown-item href="/links">Other Links</b-dropdown-item>
+        <b-dropdown-item href="/welfare">Welfare Rights</b-dropdown-item>
+        <b-dropdown-item href="/esa">Claiming ESA</b-dropdown-item>
       </b-nav-item-dropdown>
-      <b-nav-item href="/links">Links</b-nav-item>
-      <b-nav-item href="/computers">Computers</b-nav-item>
+      <b-nav-item href="/news">News</b-nav-item>
+      <b-nav-item href="/travel">Travel</b-nav-item>
       <b-nav-item href="/about">About</b-nav-item>
       <b-nav-item href="#" disabled>Disabled</b-nav-item>
     </b-navbar-nav>

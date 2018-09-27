@@ -25,6 +25,7 @@ box-sizing: border-box;
 body {
   font-family: "lato", sans-serif;
   background : #242943;
+  color: white;
 }
 .title-color{
     color: #FFCB31;

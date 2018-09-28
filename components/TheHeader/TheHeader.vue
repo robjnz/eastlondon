@@ -27,6 +27,14 @@
         <b-dropdown-item href="/welfare">Welfare Rights</b-dropdown-item>
         <b-dropdown-item href="/esa">Claiming ESA</b-dropdown-item>
       </b-nav-item-dropdown>
+
+      <b-nav-item-dropdown text="Travel" right>
+        <b-dropdown-item href="/travel">Live Train Times</b-dropdown-item>
+        <b-dropdown-item href="/support">Support groups</b-dropdown-item>
+        <b-dropdown-item href="/welfare">Welfare Rights</b-dropdown-item>
+        <b-dropdown-item href="/esa">Claiming ESA</b-dropdown-item>
+      </b-nav-item-dropdown>
+
       <b-nav-item href="/news">News</b-nav-item>
       <b-nav-item href="/travel">Travel</b-nav-item>
       <b-nav-item href="/about">About</b-nav-item>

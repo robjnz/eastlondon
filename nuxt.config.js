@@ -42,7 +42,11 @@ module.exports = {
     // Doc: https://github.com/nuxt-community/axios-module#usage
     '@nuxtjs/axios',
     // Doc: https://bootstrap-vue.js.org/docs/
-    'bootstrap-vue/nuxt'
+    'bootstrap-vue/nuxt',
+    // Simple usage
+    '@nuxtjs/google-analytics', {
+      id: 'UA-84231316-2'
+    }
   ],
   /*
   ** Axios module configuration
@@ -70,11 +74,5 @@ module.exports = {
       }
     }
   }
-  modules: [
-    // Simple usage
-    ['@nuxtjs/google-analytics', {
-      id: 'UA-84231316-2'
-    }]
-]
 }
 
